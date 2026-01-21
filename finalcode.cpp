@@ -89,7 +89,7 @@ public:
 };
  // ** RECOMMENDATION USING RAND FUNCTION :
     
-    /vector<string> getRandomRecommendations(const vector<Product>& products) const {
+    /*vector<string> getRandomRecommendations(const vector<Product>& products) const {
         vector<string> recommendations;
         vector<int> indices;
         while (recommendations.size() < 2) {
